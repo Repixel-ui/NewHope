@@ -1,3 +1,5 @@
-gradio
+flask
+gunicorn
 opencv-python
+gdown
 numpy
